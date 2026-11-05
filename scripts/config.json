@@ -1,0 +1,7 @@
+{
+  "keyword": "五常大米",
+  "platforms": ["jd", "taobao", "pdd"],
+  "maxBatchesPerPlatform": 8,
+  "scrollPauseMs": 4000,
+  "dataDir": "C:/Users/<你的用户名>/ecom-scraper-data"
+}
